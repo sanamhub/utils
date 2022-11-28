@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "repository": "https://github.com/sanamhub/utils",
+  "author": "Sanam <sanampakuwal27@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
