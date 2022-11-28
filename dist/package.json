@@ -1,0 +1,30 @@
+{
+  "name": "@sanam/utils",
+  "version": "0.0.1",
+  "description": "JavaScript utils",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanamhub/utils"
+  },
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "javascript",
+    "utils",
+    "utilities"
+  ],
+  "author": "Sanam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanamhub/utils/issues"
+  },
+  "homepage": "https://github.com/sanamhub/utils#readme"
+}
