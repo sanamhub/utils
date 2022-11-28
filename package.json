@@ -5,9 +5,14 @@
   "author": "Sanam <sanampakuwal27@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json",
+    "parcel": "parcel index.html"
   },
   "devDependencies": {
     "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@sanampakuwal/utils": "^0.0.1",
+    "parcel": "^2.8.0"
   }
 }
