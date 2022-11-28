@@ -1,5 +1,5 @@
 {
-  "name": "@sanam/utils",
+  "name": "@sanampakuwal/utils",
   "version": "0.0.1",
   "description": "JavaScript utils",
   "main": "lib/es5/index.js",
